@@ -9,7 +9,7 @@ syntax:- list_name[index] = new_value
 deletion of an element in a list
 syntax:- del list_name[index]
 '''
-list = [1, 2, 'mahesh', [1, 3.4, 566]]
+list = [1, 2, 3, 'mahesh', [1, 3.4, 566]]
 print(list)
 list[1] = 123
 print(list)
